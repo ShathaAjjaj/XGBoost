@@ -8,7 +8,7 @@ This project uses XGBoost to predict whether mushrooms are edible or poisonous b
 
 Boosting is an ensemble learning technique used to create a strong model by combining many weak models (usually decision trees). A weak model is one that performs just slightly better than random guessing.
 
-✅ Popular Boosting Algorithms:
+ Popular Boosting Algorithms:
 
 AdaBoost (Adaptive Boosting)
 
