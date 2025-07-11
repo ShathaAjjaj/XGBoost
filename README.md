@@ -6,7 +6,19 @@ This project uses XGBoost to predict whether mushrooms are edible or poisonous b
 
 ## 🧠 Model Explanation
 
-XGBoost is a powerful gradient boosting algorithm optimized for speed and performance.
+Boosting is an ensemble learning technique used to create a strong model by combining many weak models (usually decision trees). A weak model is one that performs just slightly better than random guessing.
+
+✅ Popular Boosting Algorithms:
+
+AdaBoost (Adaptive Boosting)
+
+Gradient Boosting
+
+XGBoost (Extreme Gradient Boosting) — fast and powerful
+
+LightGBM — very efficient for large datasets
+
+CatBoost — works well with categorical features
 
 ## ✅ Benefits
 
